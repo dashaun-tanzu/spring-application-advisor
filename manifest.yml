@@ -1,0 +1,5 @@
+---
+applications:
+- name: saa
+  instances: 1
+  path: ./application-advisor-server-1.0.4.jar
